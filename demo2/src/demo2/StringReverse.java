@@ -13,6 +13,7 @@ public class StringReverse {
 			reverse= reverse+name.charAt(i);
 		}
 		System.out.println(reverse);
+		System.out.println();
 		
 	}
 
